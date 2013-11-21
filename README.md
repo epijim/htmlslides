@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <style>
 @import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
 body {
@@ -128,3 +129,7 @@ Presenter mode is sticky, so refreshing the page will persist your settings.
 ---
 
 That's all she wrote!
+=======
+htmlslides
+==========
+>>>>>>> efc209b0251bdccdc7de78a533d3770a8760b14c
