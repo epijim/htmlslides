@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'CVD risk changes after early<br>diabetes diagnosis',
+    subtitle: 'SAPC, Madingly Hall, 2014',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
@@ -22,8 +22,8 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title<br>Google',
+    name: 'James Black',
+    company: 'Graduate student<br>MRC Epidemiology Unit, Cambridge University',
     gplus: 'http://plus.google.com/1234567890',
     twitter: '@yourhandle',
     www: 'http://www.you.com',
